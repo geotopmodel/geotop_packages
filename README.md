@@ -1,6 +1,8 @@
 # GEOtop 2.0.1
 
-This repository collects the precompiled packages of GEOtop.
+This repository collects the precompiled packages of GEOtop Version 2.0.1
+
+This version is currenty oudated and unsupported (Otc 2026)
 
 ## GNU/Linux
 
